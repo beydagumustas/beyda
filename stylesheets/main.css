@@ -75,7 +75,7 @@
 				}
 			}
 	/*content section*/
-			.container {				
+			.container {
 				background: rgba(255, 255, 255, 0.6);
 				width: 80%;
 				margin: 0 auto;
@@ -120,7 +120,7 @@
 			    text-align: center;
 			    text-decoration: none;
 			    border-radius: 20%;
-				background: rgba(255, 255, 255, 0.1);
+				background: rgba(45, 55, 55, 1);
 				color: rgba(255, 255, 255, 1);
 				border: solid 2px rgba(255, 255, 255, 0.7);
 			}
@@ -134,7 +134,7 @@
 				background: rgba(59,89,152,1);
 				border: solid 2px rgba(59,89,152,1);
 			}
-			.fa-pinterest:hover {
+			.fa-instagram:hover {
 				background: rgba(201,34,40,1);
 				border: solid 2px rgba(201,34,40,1);
 			}
@@ -146,4 +146,3 @@
 				background: rgba(112,128,144,1);
 				border: solid 2px rgba(112,128,144,1);
 			}
-		
